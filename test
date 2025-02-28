@@ -1,0 +1,32 @@
+Script name, location/path of script, purpose/description, Execution frequency, upstream server and upstream cd path, downstream server and downstream cd path, Archives path (if any), output log file directory/path
+-------------------------------------------------------------------------------------------------------------------
+
+create a structured data for the given scripts in tabular format, ready to be added to the Excel sheet, with this fields Script name, location/path of script, purpose/description, Execution frequency, upstream server and upstream cd path, downstream server and downstream cd path, Archives path (if any), output log file directory/path, Acknowledgement (Recipient Email Address) for the given code APImultiplescontacts.sh
+
+-----------------------------------------------------------------------------------------------------------------
+
+21- active
+12- at /home/qualsrv/script/
+
+Bazaarvoice.sh, BazaarvoiceStage.sh, Renamesurvey.sh, TFSFTPtoAWSAll.sh, BV_myfamilymobile.sh, BV_net10.sh, BV_simplemobile.sh
+BV_straighttalk.sh, BV_totalwireless.sh, SurveyTransferAlert.sh, GetQuestionsforonesurvey.sh, unicalockalert.sh
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+renamesurvey "evillasmil@tracfone.com  pdelavega@tracfone.com qualtricssupport@tracfone.com"
+
+TFSFTPtoAWSAll " Datalake-core-team@tracfone.com  QualtricsSupport@tracfone.com  DataScienceDepartment@tracfone.com"
+
+SurveyTransferAlert "evillasmil@tracfone.com arios@tracfone.com ppavankumar@tracfone.com"
+
+-------------------------------------------------------------------------------------------------------------------
+
+not listed - APImultiplescontacts.sh, Bazaarvoiceall.sh, BazaarvoiceBazaarvoice.sh, CheclQualtricsAPPisUp.sh, CreateQualtricsAccountNEW.sh, ftp.sh, ftpworks.sh, functionQualtricsUnicaAlert.sh, QualtricsUnicaAlert.sh, QualtricUnicaAlert.sh, Renamesurveyorig.sh, RenamesurveyTest.sh, SLA2API.sh, SLAAPI1and2.sh, SLAAPImultiplescontactsemail.sh, SLAAPImultiplescontacts.sh, TFSFTPtoAWSAllnew.sh, TFSFTPtoAWSAllnewstruc.sh, TFSFTPtoAWSAll_old.sh, TFSFTPtoAWSAllSurveyid.sh, TFSFTPtoAWSHist.sh, TFSFTPtoAWSorig.sh, TFSFTPtoAWS.sh, TFSFTPtoVerint.sh, unicalockalertold.sh
+
+listed - Bazaarvoice.sh, BazaarvoiceStage.sh, BV_myfamilymobile.sh, BV_net10.sh, BV_simplemobile.sh, BV_straighttalk.sh, BV_totalwireless.sh,  GetQuestionsforonesurvey.sh, Renamesurvey.sh, SurveyTransferAlert.sh, TFSFTPtoAWSAll.sh, unicalockalert.sh
+
+commented - CreateQualtricsAccount.sh, PythonfromUnix.sh, Yextfiletransfer.sh
+
+----------------------------------------------------------------------------------------------------------------------
+
